@@ -12,7 +12,7 @@ The data analysis process consists of the following steps:
 4.	Clustering: apply K-Means clustering algorithm to find the optimal number of clusters using the elbow method and silhouette score, and assign each customer to a cluster.
 5.	Cluster interpretation: analyze the characteristics of each cluster and provide insights for marketing strategies.
 6.  Prediction: using classifiers such as KNN, Random Forest, Decision Tree(J48)
-7.  Analysis: Confusion matrix, Accuracy score, Recall, Precision, RMSE(of mean squared error);
+7.  Analysis: Confusion matrix, Accuracy score, Recall, Precision, RMSE(of mean squared error).
 
 ## Libraries Used
 The project uses the following Python libraries:
